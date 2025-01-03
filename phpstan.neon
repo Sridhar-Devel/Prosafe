@@ -1,0 +1,27 @@
+includes:
+    - ./vendor/nunomaduro/larastan/extension.neon
+
+parameters:
+
+    checkGenericClassInNonGenericObjectType: false
+
+    paths:
+        - app/
+
+    # Level 9 is the highest level
+    level: 8
+
+    ignoreErrors:
+         - '#Access to an undefined property#'
+         - '#Cannot access property#'
+#        - '#PHPDoc tag @var#'
+#
+#    excludePaths:
+#        - ./*/*/FileToBeExcluded.php
+#
+#    checkMissingIterableValueType: false
+
+# For all available options, please take a look at the PHPStan documentation: https://phpstan.org/config-reference
+
+# To run phpstan with this config file, execute:
+# $ vendor/bin/phpstan analyse  or $ vendor/bin/phpstan analyse -l 8

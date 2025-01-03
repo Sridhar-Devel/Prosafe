@@ -1,0 +1,613 @@
+Locker Number,Key Number,Floor,Type
+BA001,146,Basement,Large
+BA002,147,Basement,Large
+BA003,148,Basement,Large
+BA004,149,Basement,Large
+BA005,150,Basement,Large
+BA006,141,Basement,Large
+BA007,142,Basement,Large
+BA008,143,Basement,Large
+BA009,144,Basement,Large
+BA010,145,Basement,Large
+BA011,66,Basement,Large
+BA012,67,Basement,Large
+BA013,68,Basement,Large
+BA014,69,Basement,Large
+BA015,70,Basement,Large
+BA016,61,Basement,Large
+BA017,62,Basement,Large
+BA018,63,Basement,Large
+BA019,64,Basement,Large
+BA020,65,Basement,Large
+BA021,106,Basement,Large
+BA022,107,Basement,Large
+BA023,108,Basement,Large
+BA024,109,Basement,Large
+BA025,110,Basement,Large
+BA026,101,Basement,Large
+BA027,102,Basement,Large
+BA028,103,Basement,Large
+BA029,104,Basement,Large
+BA030,105,Basement,Large
+BA031,134,Basement,Large
+BA032,135,Basement,Large
+BA033,136,Basement,Large
+BA034,137,Basement,Large
+BA035,138,Basement,Large
+BA036,139,Basement,Large
+BA037,140,Basement,Large
+BA038,131,Basement,Large
+BA039,132,Basement,Large
+BA040,133,Basement,Large
+BB001,38,Basement,Large
+BB002,39,Basement,Large
+BB003,40,Basement,Large
+BB004,31,Basement,Large
+BB005,32,Basement,Large
+BB006,33,Basement,Large
+BB007,34,Basement,Large
+BB008,35,Basement,Large
+BB009,36,Basement,Large
+BB010,37,Basement,Large
+BB011,168,Basement,Large
+BB012,169,Basement,Large
+BB013,170,Basement,Large
+BB014,161,Basement,Large
+BB015,162,Basement,Large
+BB016,163,Basement,Large
+BB017,164,Basement,Large
+BB018,165,Basement,Large
+BB019,166,Basement,Large
+BB020,167,Basement,Large
+BB021,156,Basement,Large
+BB022,157,Basement,Large
+BB023,158,Basement,Large
+BB024,159,Basement,Large
+BB025,160,Basement,Large
+BB026,151,Basement,Large
+BB027,152,Basement,Large
+BB028,153,Basement,Large
+BB029,154,Basement,Large
+BB030,155,Basement,Large
+BB031,87,Basement,Large
+BB032,88,Basement,Large
+BB033,89,Basement,Large
+BB034,90,Basement,Large
+BB035,81,Basement,Large
+BB036,82,Basement,Large
+BB037,83,Basement,Large
+BB038,84,Basement,Large
+BB039,85,Basement,Large
+BB040,86,Basement,Large
+BB041,125,Basement,Large
+BB042,126,Basement,Large
+BB043,127,Basement,Large
+BB044,128,Basement,Large
+BB045,129,Basement,Large
+BB046,130,Basement,Large
+BB047,121,Basement,Large
+BB048,122,Basement,Large
+BB049,123,Basement,Large
+BB050,124,Basement,Large
+BC001,46,Basement,Large
+BC002,47,Basement,Large
+BC003,48,Basement,Large
+BC004,49,Basement,Large
+BC005,50,Basement,Large
+BC006,41,Basement,Large
+BC007,42,Basement,Large
+BC008,43,Basement,Large
+BC009,44,Basement,Large
+BC010,45,Basement,Large
+BC011,176,Basement,Large
+BC012,177,Basement,Large
+BC013,178,Basement,Large
+BC014,179,Basement,Large
+BC015,180,Basement,Large
+BC016,171,Basement,Large
+BC017,172,Basement,Large
+BC018,173,Basement,Large
+BC019,174,Basement,Large
+BC020,175,Basement,Large
+BC021,56,Basement,Large
+BC022,57,Basement,Large
+BC023,58,Basement,Large
+BC024,59,Basement,Large
+BC025,60,Basement,Large
+BC026,51,Basement,Large
+BC027,52,Basement,Large
+BC028,53,Basement,Large
+BC029,54,Basement,Large
+BC030,55,Basement,Large
+BC031,78,Basement,Large
+BC032,79,Basement,Large
+BC033,80,Basement,Large
+BC034,71,Basement,Large
+BC035,72,Basement,Large
+BC036,73,Basement,Large
+BC037,74,Basement,Large
+BC038,75,Basement,Large
+BC039,76,Basement,Large
+BC040,77,Basement,Large
+BC041,116,Basement,Large
+BC042,117,Basement,Large
+BC043,118,Basement,Large
+BC044,119,Basement,Large
+BC045,120,Basement,Large
+BC046,111,Basement,Large
+BC047,112,Basement,Large
+BC048,113,Basement,Large
+BC049,114,Basement,Large
+BC050,115,Basement,Large
+BC051,29,Basement,Large
+BC052,30,Basement,Large
+BC053,21,Basement,Large
+BC054,22,Basement,Large
+BC055,23,Basement,Large
+BC056,24,Basement,Large
+BC057,25,Basement,Large
+BC058,26,Basement,Large
+BC059,27,Basement,Large
+BC060,28,Basement,Large
+BC061,7,Basement,Large
+BC062,8,Basement,Large
+BC063,9,Basement,Large
+BC064,10,Basement,Large
+BC065,1,Basement,Large
+BC066,2,Basement,Large
+BC067,3,Basement,Large
+BC068,4,Basement,Large
+BC069,5,Basement,Large
+BC070,6,Basement,Large
+BC071,96,Basement,Large
+BC072,97,Basement,Large
+BC073,98,Basement,Large
+BC074,99,Basement,Large
+BC075,100,Basement,Large
+BC076,91,Basement,Large
+BC077,92,Basement,Large
+BC078,93,Basement,Large
+BC079,94,Basement,Large
+BC080,95,Basement,Large
+BC081,15,Basement,Large
+BC082,16,Basement,Large
+BC083,17,Basement,Large
+BC084,18,Basement,Large
+BC085,19,Basement,Large
+BC086,20,Basement,Large
+BC087,11,Basement,Large
+BC088,12,Basement,Large
+BC089,13,Basement,Large
+BC090,14,Basement,Large
+BD001,66,Basement,Large
+BD002,67,Basement,Large
+BD003,68,Basement,Large
+BD004,69,Basement,Large
+BD005,70,Basement,Large
+BD006,61,Basement,Large
+BD007,62,Basement,Large
+BD008,63,Basement,Large
+BD009,64,Basement,Large
+BD010,65,Basement,Large
+BD011,99,Basement,Large
+BD012,100,Basement,Large
+BD013,91,Basement,Large
+BD014,92,Basement,Large
+BD015,93,Basement,Large
+BD016,94,Basement,Large
+BD017,95,Basement,Large
+BD018,96,Basement,Large
+BD019,97,Basement,Large
+BD020,98,Basement,Large
+BD021,107,Basement,Large
+BD022,108,Basement,Large
+BD023,109,Basement,Large
+BD024,110,Basement,Large
+BD025,101,Basement,Large
+BD026,102,Basement,Large
+BD027,103,Basement,Large
+BD028,104,Basement,Large
+BD029,105,Basement,Large
+BD030,106,Basement,Large
+BD031,45,Basement,Large
+BD032,46,Basement,Large
+BD033,47,Basement,Large
+BD034,48,Basement,Large
+BD035,49,Basement,Large
+BD036,50,Basement,Large
+BD037,41,Basement,Large
+BD038,42,Basement,Large
+BD039,43,Basement,Large
+BD040,44,Basement,Large
+BD041,54,Basement,Large
+BD042,55,Basement,Large
+BD043,56,Basement,Large
+BD044,57,Basement,Large
+BD045,58,Basement,Large
+BD046,59,Basement,Large
+BD047,60,Basement,Large
+BD048,51,Basement,Large
+BD049,52,Basement,Large
+BD050,53,Basement,Large
+BD051,38,Basement,Large
+BD052,39,Basement,Large
+BD053,40,Basement,Large
+BD054,31,Basement,Large
+BD055,32,Basement,Large
+BD056,33,Basement,Large
+BD057,34,Basement,Large
+BD058,35,Basement,Large
+BD059,36,Basement,Large
+BD060,37,Basement,Large
+BD061,128,Basement,Large
+BD062,129,Basement,Large
+BD063,130,Basement,Large
+BD064,121,Basement,Large
+BD065,122,Basement,Large
+BD066,123,Basement,Large
+BD067,124,Basement,Large
+BD068,125,Basement,Large
+BD069,126,Basement,Large
+BD070,127,Basement,Large
+BD071,176,Basement,Large
+BD072,177,Basement,Large
+BD073,178,Basement,Large
+BD074,179,Basement,Large
+BD075,180,Basement,Large
+BD076,171,Basement,Large
+BD077,172,Basement,Large
+BD078,173,Basement,Large
+BD079,174,Basement,Large
+BD080,175,Basement,Large
+BE001,77,Basement,Large
+BE002,78,Basement,Large
+BE003,79,Basement,Large
+BE004,80,Basement,Large
+BE005,71,Basement,Large
+BE006,72,Basement,Large
+BE007,73,Basement,Large
+BE008,74,Basement,Large
+BE009,75,Basement,Large
+BE010,76,Basement,Large
+BE011,136,Basement,Large
+BE012,137,Basement,Large
+BE013,138,Basement,Large
+BE014,139,Basement,Large
+BE015,140,Basement,Large
+BE016,131,Basement,Large
+BE017,132,Basement,Large
+BE018,133,Basement,Large
+BE019,134,Basement,Large
+BE020,135,Basement,Large
+BE021,116,Basement,Large
+BE022,117,Basement,Large
+BE023,118,Basement,Large
+BE024,119,Basement,Large
+BE025,120,Basement,Large
+BE026,111,Basement,Large
+BE027,112,Basement,Large
+BE028,113,Basement,Large
+BE029,114,Basement,Large
+BE030,115,Basement,Large
+BE031,83,Basement,Large
+BE032,84,Basement,Large
+BE033,85,Basement,Large
+BE034,86,Basement,Large
+BE035,87,Basement,Large
+BE036,88,Basement,Large
+BE037,89,Basement,Large
+BE038,90,Basement,Large
+BE039,81,Basement,Large
+BE040,82,Basement,Large
+BE041,144,Basement,Large
+BE042,145,Basement,Large
+BE043,146,Basement,Large
+BE044,147,Basement,Large
+BE045,148,Basement,Large
+BE046,149,Basement,Large
+BE047,150,Basement,Large
+BE048,141,Basement,Large
+BE049,142,Basement,Large
+BE050,143,Basement,Large
+BE051,169,Basement,Large
+BE052,170,Basement,Large
+BE053,161,Basement,Large
+BE054,162,Basement,Large
+BE055,163,Basement,Large
+BE056,164,Basement,Large
+BE057,165,Basement,Large
+BE058,166,Basement,Large
+BE059,167,Basement,Large
+BE060,168,Basement,Large
+BE061,156,Basement,Large
+BE062,157,Basement,Large
+BE063,158,Basement,Large
+BE064,159,Basement,Large
+BE065,160,Basement,Large
+BE066,151,Basement,Large
+BE067,152,Basement,Large
+BE068,153,Basement,Large
+BE069,154,Basement,Large
+BE070,155,Basement,Large
+BE071,5,Basement,Large
+BE072,6,Basement,Large
+BE073,7,Basement,Large
+BE074,8,Basement,Large
+BE075,9,Basement,Large
+BE076,10,Basement,Large
+BE077,1,Basement,Large
+BE078,2,Basement,Large
+BE079,3,Basement,Large
+BE080,4,Basement,Large
+BE081,29,Basement,Large
+BE082,30,Basement,Large
+BE083,21,Basement,Large
+BE084,22,Basement,Large
+BE085,23,Basement,Large
+BE086,24,Basement,Large
+BE087,25,Basement,Large
+BE088,26,Basement,Large
+BE089,27,Basement,Large
+BE090,28,Basement,Large
+BF001,18,Basement,Large
+BF002,19,Basement,Large
+BF003,20,Basement,Large
+BF004,11,Basement,Large
+BF005,12,Basement,Large
+BF006,13,Basement,Large
+BF007,14,Basement,Large
+BF008,15,Basement,Large
+BF009,16,Basement,Large
+BF010,17,Basement,Large
+1A001,123,1st Floor,Medium
+1A002,124,1st Floor,Medium
+1A003,125,1st Floor,Medium
+1A004,126,1st Floor,Medium
+1A005,106,1st Floor,Medium
+1A006,107,1st Floor,Medium
+1A007,108,1st Floor,Medium
+1A008,109,1st Floor,Medium
+1A009,110,1st Floor,Medium
+1A010,111,1st Floor,Medium
+1A011,112,1st Floor,Medium
+1A012,113,1st Floor,Medium
+1A013,114,1st Floor,Medium
+1A014,115,1st Floor,Medium
+1A015,116,1st Floor,Medium
+1A016,117,1st Floor,Medium
+1A017,118,1st Floor,Medium
+1A018,119,1st Floor,Medium
+1A019,120,1st Floor,Medium
+1A020,121,1st Floor,Medium
+1A021,122,1st Floor,Medium
+1A022,138,1st Floor,Medium
+1A023,139,1st Floor,Medium
+1A024,140,1st Floor,Medium
+1A025,141,1st Floor,Medium
+1A026,142,1st Floor,Medium
+1A027,143,1st Floor,Medium
+1A028,144,1st Floor,Medium
+1A029,145,1st Floor,Medium
+1A030,146,1st Floor,Medium
+1A031,147,1st Floor,Medium
+1A032,127,1st Floor,Medium
+1A033,128,1st Floor,Medium
+1A034,129,1st Floor,Medium
+1A035,130,1st Floor,Medium
+1A036,131,1st Floor,Medium
+1A037,132,1st Floor,Medium
+1A038,133,1st Floor,Medium
+1A039,134,1st Floor,Medium
+1A040,135,1st Floor,Medium
+1A041,136,1st Floor,Medium
+1A042,137,1st Floor,Medium
+1A043,187,1st Floor,Medium
+1A044,188,1st Floor,Medium
+1A045,189,1st Floor,Medium
+1A046,169,1st Floor,Medium
+1A047,170,1st Floor,Medium
+1A048,171,1st Floor,Medium
+1A049,172,1st Floor,Medium
+1A050,173,1st Floor,Medium
+1A051,174,1st Floor,Medium
+1A052,175,1st Floor,Medium
+1A053,176,1st Floor,Medium
+1A054,177,1st Floor,Medium
+1A055,178,1st Floor,Medium
+1A056,179,1st Floor,Medium
+1A057,180,1st Floor,Medium
+1A058,181,1st Floor,Medium
+1A059,182,1st Floor,Medium
+1A060,183,1st Floor,Medium
+1A061,184,1st Floor,Medium
+1A062,185,1st Floor,Medium
+1A063,186,1st Floor,Medium
+1A064,99,1st Floor,Medium
+1A065,100,1st Floor,Medium
+1A066,101,1st Floor,Medium
+1A067,102,1st Floor,Medium
+1A068,103,1st Floor,Medium
+1A069,104,1st Floor,Medium
+1A070,105,1st Floor,Medium
+1A071,85,1st Floor,Medium
+1A072,86,1st Floor,Medium
+1A073,87,1st Floor,Medium
+1A074,88,1st Floor,Medium
+1A075,89,1st Floor,Medium
+1A076,90,1st Floor,Medium
+1A077,91,1st Floor,Medium
+1A078,92,1st Floor,Medium
+1A079,93,1st Floor,Medium
+1A080,94,1st Floor,Medium
+1A081,95,1st Floor,Medium
+1A082,96,1st Floor,Medium
+1A083,97,1st Floor,Medium
+1A084,98,1st Floor,Medium
+1A085,56,1st Floor,Medium
+1A086,57,1st Floor,Medium
+1A087,58,1st Floor,Medium
+1A088,59,1st Floor,Medium
+1A089,60,1st Floor,Medium
+1A090,61,1st Floor,Medium
+1A091,62,1st Floor,Medium
+1A092,63,1st Floor,Medium
+1A093,43,1st Floor,Medium
+1A094,44,1st Floor,Medium
+1A095,45,1st Floor,Medium
+1A096,46,1st Floor,Medium
+1A097,47,1st Floor,Medium
+1A098,48,1st Floor,Medium
+1A099,49,1st Floor,Medium
+1A100,50,1st Floor,Medium
+1A101,51,1st Floor,Medium
+1A102,52,1st Floor,Medium
+1A103,53,1st Floor,Medium
+1A104,54,1st Floor,Medium
+1A105,55,1st Floor,Medium
+1A106,200,1st Floor,Medium
+1A107,201,1st Floor,Medium
+1A108,202,1st Floor,Medium
+1A109,203,1st Floor,Medium
+1A110,204,1st Floor,Medium
+1A111,205,1st Floor,Medium
+1A112,206,1st Floor,Medium
+1A113,207,1st Floor,Medium
+1A114,208,1st Floor,Medium
+1A115,209,1st Floor,Medium
+1A116,210,1st Floor,Medium
+1A117,190,1st Floor,Medium
+1A118,191,1st Floor,Medium
+1A119,192,1st Floor,Medium
+1A120,193,1st Floor,Medium
+1A121,194,1st Floor,Medium
+1A122,195,1st Floor,Medium
+1A123,196,1st Floor,Medium
+1A124,197,1st Floor,Medium
+1A125,198,1st Floor,Medium
+1A126,199,1st Floor,Medium
+1A127,15,1st Floor,Medium
+1A128,16,1st Floor,Medium
+1A129,17,1st Floor,Medium
+1A130,18,1st Floor,Medium
+1A131,19,1st Floor,Medium
+1A132,20,1st Floor,Medium
+1A133,21,1st Floor,Medium
+1A134,1,1st Floor,Medium
+1A135,2,1st Floor,Medium
+1A136,3,1st Floor,Medium
+1A137,4,1st Floor,Medium
+1A138,5,1st Floor,Medium
+1A139,6,1st Floor,Medium
+1A140,7,1st Floor,Medium
+1A141,8,1st Floor,Medium
+1A142,9,1st Floor,Medium
+1A143,10,1st Floor,Medium
+1A144,11,1st Floor,Medium
+1A145,12,1st Floor,Medium
+1A146,13,1st Floor,Medium
+1A147,14,1st Floor,Medium
+1A153,222,1st Floor,Medium
+1A154,223,1st Floor,Medium
+1A155,224,1st Floor,Medium
+1A156,225,1st Floor,Medium
+1A157,226,1st Floor,Medium
+1A158,227,1st Floor,Medium
+1A159,228,1st Floor,Medium
+1A160,229,1st Floor,Medium
+1A161,230,1st Floor,Medium
+1A162,231,1st Floor,Medium
+1A163,211,1st Floor,Medium
+1A164,212,1st Floor,Medium
+1A165,213,1st Floor,Medium
+1A166,214,1st Floor,Medium
+1A167,215,1st Floor,Medium
+1A168,216,1st Floor,Medium
+1A169,217,1st Floor,Medium
+1A170,218,1st Floor,Medium
+1A171,219,1st Floor,Medium
+1A172,220,1st Floor,Medium
+1A173,221,1st Floor,Medium
+1A174,368,1st Floor,Medium
+1A175,369,1st Floor,Medium
+1A176,370,1st Floor,Medium
+1A177,371,1st Floor,Medium
+1A178,372,1st Floor,Medium
+1A179,373,1st Floor,Medium
+1A180,374,1st Floor,Medium
+1A181,375,1st Floor,Medium
+1A182,376,1st Floor,Medium
+1A183,377,1st Floor,Medium
+1A184,378,1st Floor,Medium
+1A185,358,1st Floor,Medium
+1A186,359,1st Floor,Medium
+1A187,360,1st Floor,Medium
+1A188,361,1st Floor,Medium
+1A189,362,1st Floor,Medium
+1A190,363,1st Floor,Medium
+1A191,364,1st Floor,Medium
+1A192,365,1st Floor,Medium
+1A193,366,1st Floor,Medium
+1A194,367,1st Floor,Medium
+1A195,394,1st Floor,Medium
+1A196,395,1st Floor,Medium
+1A197,396,1st Floor,Medium
+1A198,397,1st Floor,Medium
+1A199,398,1st Floor,Medium
+1A200,399,1st Floor,Medium
+1A201,379,1st Floor,Medium
+1A202,380,1st Floor,Medium
+1A203,381,1st Floor,Medium
+1A204,382,1st Floor,Medium
+1A205,383,1st Floor,Medium
+1A206,384,1st Floor,Medium
+1A207,385,1st Floor,Medium
+1A208,386,1st Floor,Medium
+1A209,387,1st Floor,Medium
+1A210,388,1st Floor,Medium
+1A211,389,1st Floor,Medium
+1A212,390,1st Floor,Medium
+1A213,391,1st Floor,Medium
+1A214,392,1st Floor,Medium
+1A215,393,1st Floor,Medium
+1A216,241,1st Floor,Medium
+1A217,242,1st Floor,Medium
+1A218,243,1st Floor,Medium
+1A219,244,1st Floor,Medium
+1A220,245,1st Floor,Medium
+1A221,246,1st Floor,Medium
+1A222,247,1st Floor,Medium
+1A223,248,1st Floor,Medium
+1A224,249,1st Floor,Medium
+1A225,250,1st Floor,Medium
+1A226,251,1st Floor,Medium
+1A227,252,1st Floor,Medium
+1A228,232,1st Floor,Medium
+1A229,233,1st Floor,Medium
+1A230,234,1st Floor,Medium
+1A231,235,1st Floor,Medium
+1A232,236,1st Floor,Medium
+1A233,237,1st Floor,Medium
+1A234,238,1st Floor,Medium
+1A235,239,1st Floor,Medium
+1A236,240,1st Floor,Medium
+1A237,268,1st Floor,Medium
+1A238,269,1st Floor,Medium
+1A239,270,1st Floor,Medium
+1A240,271,1st Floor,Medium
+1A241,272,1st Floor,Medium
+1A242,273,1st Floor,Medium
+1A243,253,1st Floor,Medium
+1A244,254,1st Floor,Medium
+1A245,255,1st Floor,Medium
+1A246,256,1st Floor,Medium
+1A247,257,1st Floor,Medium
+1A248,258,1st Floor,Medium
+1A249,259,1st Floor,Medium
+1A250,260,1st Floor,Medium
+1A251,261,1st Floor,Medium
+1A252,262,1st Floor,Medium
+1A253,263,1st Floor,Medium
+1A254,264,1st Floor,Medium
+1A255,265,1st Floor,Medium
+1A256,266,1st Floor,Medium
+1A257,267,1st Floor,Medium
