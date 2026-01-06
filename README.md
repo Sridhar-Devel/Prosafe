@@ -22,7 +22,7 @@ FLUSH PRIVILEGES;
 ### Install application dependencies and DB migration
 
 ```sh
-git clone https://git.rsubr.in/rsubr/prosafe.git
+git@github.com:Sridhar-Devel/Prosafe.git
 cd prosafe
 
 # Update username, password for admin, manager & operator in .env
