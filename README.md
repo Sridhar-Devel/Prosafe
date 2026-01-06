@@ -51,7 +51,7 @@ Create a MySQL database and user as required. See development DB creation steps 
 
 ```sh
 cd /var
-git clone https://git.rsubr.in/rsubr/prosafe.git www
+git@github.com:Sridhar-Devel/Prosafe.git
 cd www
 
 chown -Rh www-data storage/framework
